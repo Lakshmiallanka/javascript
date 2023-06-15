@@ -86,13 +86,19 @@
 
 
  // functions//
- function myFunction(x,y)
- {
-    return console.log(x+y);
- }
-myFunction(3,4); 
+ //function myFunction(x,y)
+// {
+   // return console.log(x+y);
+ //}
+//myFunction(3,4); 
 
-const g=40;
+
+function myFunction(g)
+{
+    console.log(g);
+
+}
+myFunction(40);
 
 
 
